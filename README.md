@@ -11,7 +11,7 @@ This project preprocesses audio data from the RAVDESS dataset, extracts features
 1. Open a terminal and navigate to your desired directory.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/zeiad-E/emotion-detection-project.git
    ```
 3. Navigate to the project folder:
    ```bash
